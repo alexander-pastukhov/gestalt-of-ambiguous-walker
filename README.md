@@ -1,4 +1,10 @@
-A data set and the analysis code for the __"First, you need a Gestalt: an interaction of bottom-up and top-down streams during perception of an ambiguously rotating human walker"__ manuscript. 
+# First, you need a Gestalt: an interaction of bottom-up and top-down streams during perception of an ambiguously rotating human walker
+
+An accompanying data set and the analysis code for manuscript.
+
+## Original publication
+
+Pastukhov, A. (2017). _First, you need a Gestalt: An interaction of bottom-up and top-down streams during the perception of the ambiguously rotating human walker._ Scientific Reports, 7(1), 1158. https://doi.org/10.1038/s41598-017-01376-1
 
 ## Analysis
 The complete analysis, including all figures and statistical comparisons, can be found in Jupyter notebooks `Complete analysis.ipynb` and `Within group analysis using linear mixed models.ipynb`.
