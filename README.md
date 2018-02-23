@@ -2,7 +2,11 @@
 
 An accompanying data set and the analysis code for manuscript.
 
+<<<<<<< HEAD
 ## Manuscript
+=======
+## Manuscipt
+>>>>>>> c6607bc546a65dbc9d14ca998219a2001152b293
 
 Pastukhov, A. (2017). _First, you need a Gestalt: An interaction of bottom-up and top-down streams during the perception of the ambiguously rotating human walker._ Scientific Reports, 7(1), 1158. doi: [10.1038/s41598-017-01376-1](https://doi.org/10.1038/s41598-017-01376-1)
 
